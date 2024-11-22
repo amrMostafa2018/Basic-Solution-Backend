@@ -1,0 +1,131 @@
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\appsettings.Development.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\appsettings.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic .net Core Solution.exe
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic .net Core Solution.deps.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic .net Core Solution.runtimeconfig.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic .net Core Solution.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic .net Core Solution.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.csproj.AssemblyReference.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.AssemblyInfoInputs.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.AssemblyInfo.cs
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.csproj.CoreCompileInputs.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.MvcApplicationPartsAssemblyInfo.cs
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.MvcApplicationPartsAssemblyInfo.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\staticwebassets.build.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\staticwebassets.development.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\staticwebassets\msbuild.Basic .net Core Solution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\staticwebassets\msbuild.build.Basic .net Core Solution.props
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Basic .net Core Solution.props
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Basic .net Core Solution.props
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\scopedcss\bundle\Basic .net Core Solution.styles.css
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .n.5AE27F75.Up2Date
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\refint\Basic .net Core Solution.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\Basic .net Core Solution.genruntimeconfig.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\obj\Debug\net8.0\ref\Basic .net Core Solution.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Ardalis.SharedKernel.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Ardalis.Specification.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\AutoMapper.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Azure.Core.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Azure.Identity.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\FluentValidation.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\MediatR.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic.Application.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic.Domain.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic.Infrastructure.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic.Application.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic.Infrastructure.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Basic.Domain.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Namotion.Reflection.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NJsonSchema.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NSwag.AspNetCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NSwag.Core.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NSwag.Generation.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\YamlDotNet.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\ZymLabs.NSwag.FluentValidation.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\ZymLabs.NSwag.FluentValidation.AspNetCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\DNCB.Serilog.Enrichers.ClientInfo.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Enrichers.Environment.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Enrichers.HttpContext.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Enrichers.Sensitive.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Enrichers.Span.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Exceptions.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic .net Core Solution\bin\Debug\net8.0\Serilog.Sinks.Seq.dll

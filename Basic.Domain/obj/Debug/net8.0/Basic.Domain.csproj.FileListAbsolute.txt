@@ -1,0 +1,12 @@
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\bin\Debug\net8.0\Basic.Domain.deps.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\bin\Debug\net8.0\Basic.Domain.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\bin\Debug\net8.0\Basic.Domain.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\Basic.Domain.csproj.AssemblyReference.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\Basic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\Basic.Domain.AssemblyInfoInputs.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\Basic.Domain.AssemblyInfo.cs
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\Basic.Domain.csproj.CoreCompileInputs.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\Basic.Domain.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\refint\Basic.Domain.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\Basic.Domain.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Domain\obj\Debug\net8.0\ref\Basic.Domain.dll

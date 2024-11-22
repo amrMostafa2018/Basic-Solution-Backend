@@ -1,0 +1,15 @@
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\bin\Debug\net8.0\Basic.Application.deps.json
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\bin\Debug\net8.0\Basic.Application.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\bin\Debug\net8.0\Basic.Application.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\bin\Debug\net8.0\Basic.Domain.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\bin\Debug\net8.0\Basic.Domain.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Application.csproj.AssemblyReference.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Application.AssemblyInfoInputs.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Application.AssemblyInfo.cs
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Application.csproj.CoreCompileInputs.cache
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Ap.1C061297.Up2Date
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Application.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\refint\Basic.Application.dll
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\Basic.Application.pdb
+C:\Basic .net Core Solution\Basic .net Core Solution\Basic.Application\obj\Debug\net8.0\ref\Basic.Application.dll
