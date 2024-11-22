@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj": {}
+    "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj": {}
   },
   "projects": {
-    "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj": {
+    "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj",
+        "projectUniqueName": "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj",
         "projectName": "Basic.Application",
-        "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj",
+        "projectPath": "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj",
         "packagesPath": "C:\\Users\\amr.mostafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\obj\\",
+        "outputPath": "C:\\Basic .net core\\Basic.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -34,8 +34,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj": {
-                "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj"
+              "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj": {
+                "projectPath": "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj": {
+    "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj",
+        "projectUniqueName": "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj",
         "projectName": "Basic.Domain",
-        "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj",
+        "projectPath": "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj",
         "packagesPath": "C:\\Users\\amr.mostafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\obj\\",
+        "outputPath": "C:\\Basic .net core\\Basic.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

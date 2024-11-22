@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65o6Uq/jiww=",
+  "dgSpecHash": "OfB8kBb+9P4=",
   "success": true,
-  "projectFilePath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj",
+  "projectFilePath": "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amr.mostafa\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\amr.mostafa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

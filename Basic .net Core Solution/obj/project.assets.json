@@ -6618,11 +6618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic .net Core Solution\\Basic .net Core Solution.csproj",
+      "projectUniqueName": "C:\\Basic .net core\\Basic .net Core Solution\\Basic .net Core Solution.csproj",
       "projectName": "Basic .net Core Solution",
-      "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic .net Core Solution\\Basic .net Core Solution.csproj",
+      "projectPath": "C:\\Basic .net core\\Basic .net Core Solution\\Basic .net Core Solution.csproj",
       "packagesPath": "C:\\Users\\amr.mostafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic .net Core Solution\\obj\\",
+      "outputPath": "C:\\Basic .net core\\Basic .net Core Solution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6645,11 +6645,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj": {
-              "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj"
+            "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj": {
+              "projectPath": "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj"
             },
-            "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Infrastructure\\Basic.Infrastructure.csproj": {
-              "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Infrastructure\\Basic.Infrastructure.csproj"
+            "C:\\Basic .net core\\Basic.Infrastructure\\Basic.Infrastructure.csproj": {
+              "projectPath": "C:\\Basic .net core\\Basic.Infrastructure\\Basic.Infrastructure.csproj"
             }
           }
         }

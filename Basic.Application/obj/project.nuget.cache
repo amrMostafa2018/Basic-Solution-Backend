@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5GEzdUrQmZo=",
+  "dgSpecHash": "GlWY3HoTAZ4=",
   "success": true,
-  "projectFilePath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj",
+  "projectFilePath": "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amr.mostafa\\.nuget\\packages\\ardalis.guardclauses\\5.0.0\\ardalis.guardclauses.5.0.0.nupkg.sha512",
     "C:\\Users\\amr.mostafa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

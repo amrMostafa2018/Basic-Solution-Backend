@@ -6694,11 +6694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Infrastructure\\Basic.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Basic .net core\\Basic.Infrastructure\\Basic.Infrastructure.csproj",
       "projectName": "Basic.Infrastructure",
-      "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Infrastructure\\Basic.Infrastructure.csproj",
+      "projectPath": "C:\\Basic .net core\\Basic.Infrastructure\\Basic.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\amr.mostafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Infrastructure\\obj\\",
+      "outputPath": "C:\\Basic .net core\\Basic.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6721,8 +6721,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj": {
-              "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Application\\Basic.Application.csproj"
+            "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj": {
+              "projectPath": "C:\\Basic .net core\\Basic.Application\\Basic.Application.csproj"
             }
           }
         }

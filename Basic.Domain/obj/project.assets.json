@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj",
+      "projectUniqueName": "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj",
       "projectName": "Basic.Domain",
-      "projectPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\Basic.Domain.csproj",
+      "projectPath": "C:\\Basic .net core\\Basic.Domain\\Basic.Domain.csproj",
       "packagesPath": "C:\\Users\\amr.mostafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Basic .net Core Solution\\Basic .net Core Solution\\Basic.Domain\\obj\\",
+      "outputPath": "C:\\Basic .net core\\Basic.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

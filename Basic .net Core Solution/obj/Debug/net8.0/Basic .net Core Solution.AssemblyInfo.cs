@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basic .net Core Solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+832b800fc729cd95f605b354317fd769a497f38c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basic .net Core Solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basic .net Core Solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
